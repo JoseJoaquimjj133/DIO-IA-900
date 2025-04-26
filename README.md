@@ -1,4 +1,4 @@
-# Tutorial Avançado de Inteligência Artificial (Nível 9)
+# Tutorial Avançado de Inteligência Artificial
 
 Este tutorial aprofunda conceitos complexos, técnicas emergentes, desafios éticos e aplicações práticas de IA, com base em pesquisas recentes e tendências globais.  
 **Pré-requisitos**: Domínio de machine learning, redes neurais e programação em Python.
